@@ -1,0 +1,5 @@
+Day 3 and I'm barely able to keep my head above water. Today we did a code review of another student's work.  He did a really good job.  You can tell he has been working at this for a while.  Still, I don't want to compare/contrast his level (or anyone else's for that matter) with my own progress.  It's key for me not to get too down on myself for not knowing this stuff.  I think I'm more overwhelmed with what I don't know.  Brian's motivational talks are helpful.  They help me keep my "eye on the prize".
+
+Although I was able to stay in the building from 1pm through to 5:45pm, I still feel like I didn't do anything significant.  The struggle is real.  I was talking to my wife about it tonight after I got home.  I'm grateful Code Fellows seems to have a strong support network and staff.  I'm learning to lean on them (and my fellow students) more and more.  It's difficult to ask for help when you're used to doing everything yourself in a work environment.
+
+Today we spent about an hour learning more about creating and cloning repositories in GitHub.  We followed that with FOR and WHILE loops.  My head hurts.
