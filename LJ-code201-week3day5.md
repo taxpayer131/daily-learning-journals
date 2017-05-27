@@ -1,0 +1,1 @@
+Today we review all the topics we covered in class for the entire three weeks.  I was pleased to see I knew most of what the instructor was talking about and even though we still have to get through the final project, I'm feeling more confident today than I have since the first day of class.
