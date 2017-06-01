@@ -1,0 +1,1 @@
+This has been the least stressful week of this course.  I enjoy working with my group - Matt, Andy, and Sharmarke.  I've learned a lot about CSS during the pair programming sessions with Andy.  Pair programming is where I have enjoyed this class most.  It's also the time when I absorb more of the material we've covered in class.
